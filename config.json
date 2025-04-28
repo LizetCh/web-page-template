@@ -1,0 +1,23 @@
+{
+  "companyName": "TechCorp",
+  "logo": "assets/logo-techcorp.png",
+  "mainDescription": "Soluciones innovadoras para tu negocio.",
+  "secondaryDescription": "Optimiza procesos y mejora eficiencia.",
+  "buttonText": "Descubre más",
+  "slide1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/1280px-Coca-Cola_logo.svg.png",
+  "slide2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/1280px-Coca-Cola_logo.svg.png",
+  "slide3": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/1280px-Coca-Cola_logo.svg.png",
+  "slide4": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/1280px-Coca-Cola_logo.svg.png",
+  "slide5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/1280px-Coca-Cola_logo.svg.png",
+  "slide6": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/1280px-Coca-Cola_logo.svg.png",
+  "feature1Image": "https://images2.minutemediacdn.com/image/upload/c_fill,w_1200,ar_4:3,f_auto,q_auto,g_auto/shape/cover/sport/iStock-487787108-3f77e523663f73c106cbcb81834a4248.jpg",
+  "feature1Title": "Automatización",
+  "feature1Description": "Reduce costos con tecnología avanzada.",
+  "feature2Title": "Seguridad",
+  "feature2Description": "Protege tus datos con encriptación robusta.",
+  "feature3Title": "Seguridad",
+  "feature3Description": "Protege tus datos con encriptación robusta.",
+  "aboutText": "Somos una empresa dedicada a la transformación digital...",
+  "contactEmail": "contacto@techcorp.com"
+}
+
