@@ -1,5 +1,5 @@
 
-fetch("config3.json")
+fetch("config2.json")
   .then(response => response.json())
   .then(config => {
     document.title = config.companyName;
